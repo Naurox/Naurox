@@ -1,6 +1,6 @@
 ## **Hi there 👋**
 
-I am a web devlopper for [By-Hoster](https://byh.fr) and the founder and owner of Hablly.<br/><br/>
+I am a web devlopper for [By-Hoster](https://byh.fr) and the founder and owner of [Hablly](https://hablly.com).<br/><br/>
 I handle hardware, software, Linux, and web development.<br/><br/>
 I also have an interest in physics, astronomy, and sports.
 
@@ -22,5 +22,5 @@ I also have an interest in physics, astronomy, and sports.
 ### OlionMc
 - OlionMc was a minecraft player vs player server.
 
-### Hablly
+### [Hablly](https://hablly.com)
 - Hablly is a French hosting company that offers simplicity and rapidity to its clients.
